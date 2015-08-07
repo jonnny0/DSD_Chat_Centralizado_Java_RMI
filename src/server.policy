@@ -1,0 +1,3 @@
+grant codeBase "file:/media/DATOS/Dropbox/DSD_PRACTICAS/practica2/ChatCentralizado/src/" {
+    permission java.security.AllPermission;
+};
